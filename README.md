@@ -1,7 +1,7 @@
 # Cartotopia
 Fake map generating AI exploration project advised by UC Berkeley Professor [Clancy Wilmott](https://clancywilmott.com/).
 Used ProGAN model on Savio cluster for effective training. 
-ProGAN Model was inspired by [Karras et. al.](https://arxiv.org/abs/1710.10196) and skeleton code by [Akanimax](https://github.com/akanimax/pro_gan_pytorch).
+ProGAN Model was inspired by [Karras et. al.](https://arxiv.org/abs/1710.10196) and skeleton code by [akanimax/pro_gan_pytorch](https://github.com/akanimax/pro_gan_pytorch).
 
 <br>
 
